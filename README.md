@@ -17,6 +17,7 @@ I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make Hype
 <p align="center">
 <a href= "https://www.linkedin.com/in/ahmet-bayir/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://ahmetbayirportfolio.wordpress.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://play.google.com/store/apps/developer?id=Ahmet+Bay%C4%B1r&hl"><img src="icons/playstore.png" width="27"/></a>
 </p>
 
 <p align="center">

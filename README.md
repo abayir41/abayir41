@@ -19,6 +19,10 @@ I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make Hype
 <a href= "https://ahmetbayirportfolio.wordpress.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
+<p align="center">
+  Mail : abayir41@gmail.com
+</p>
+
 </p>
 
 ---

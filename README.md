@@ -5,7 +5,7 @@
 I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make Hyper-casual style games.     
 
 * 🧐   Interested in game development.
-* 🎓   1th grade Computer Enginnering student at Boğaziçi University.
+* 🎓   1th grade Computer Engineering student at Boğaziçi University.
 * 🌱   Currently learning 3D Modeling (Blender), AI (OpenCV) and more about C# OOP.
 * 💻   With 4 years' amateur Game Development with Unity.
 

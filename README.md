@@ -2,12 +2,12 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make Hyper-casual style games.     
+I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make PC style games.     
 
 * 🧐   Interested in game development.
-* 🎓   1th grade Computer Engineering student at Boğaziçi University.
-* 🌱   Currently learning 3D Modeling (Blender), AI and more about C# OOP.
-* 💻   With 4 years' amateur Game Development with Unity.
+* 🎓   2th Grade Computer Engineering student at Boğaziçi University.
+* 🌱   Currently learning Unreal Engine 5.1.
+* 💻   With 6 years' Game Development with Unity.
 
   
 <hr>

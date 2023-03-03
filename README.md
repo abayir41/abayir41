@@ -10,7 +10,6 @@ I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make PC s
 * 💻   With 6 years' Game Development with Unity.
 
   
-<hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 </p>

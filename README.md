@@ -14,12 +14,16 @@ I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make PC s
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
+
+<p align="center">
 Linkedin: <https://www.linkedin.com/in/ahmet-bayir/>
 Google Play: <https://play.google.com/store/apps/developer?id=Ahmet+Bay%C4%B1r&hl=en&gl=US>
-  
+</p>
+
 <p align="center">
   Mail : abayir41@gmail.com
 </p>
+  
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/ahmet-bayir/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
@@ -27,7 +31,7 @@ Google Play: <https://play.google.com/store/apps/developer?id=Ahmet+Bay%C4%B1r&h
 <a href= "https://play.google.com/store/apps/developer?id=Ahmet+Bay%C4%B1r&hl"><img src="icons/playstore.png" width="27"/></a>
 </p>
 
-</p>
+
 
 ---
 

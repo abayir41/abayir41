@@ -15,6 +15,7 @@ I am Ahmet Bayır and I make games with Unity Engine, lastly trying to make PC s
 </p>
 
 Linkedin: https://www.linkedin.com/in/ahmet-bayir/
+<br>
 Google Play: https://play.google.com/store/apps/developer?id=Ahmet+Bay%C4%B1r&hl=en&gl=US
 
 <p align="center">
